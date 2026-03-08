@@ -1,14 +1,6 @@
 # House-Sales-King-County-Analysis
 House price prediction using Linear Regression, Ridge Regression &amp; Polynomial Features | IBM Data Analysis Project
 
-Your repository is looking great! I can see:
-
-✅ House_Sales_in_King_Count_US... - notebook uploaded!
-✅ README.md - already there!
-
-Now let's update the README with a professional one. Click the pencil icon ✏️ next to README at the bottom, then delete everything and paste this:
-markdown# 🏠 House Sales Price Prediction - King County, USA
-
 ## 📌 Project Overview
 This project analyzes and predicts house sale prices in King County, USA (including Seattle) using machine learning. Built as the final capstone project for the **IBM Data Analysis with Python** course on Coursera.
 
